@@ -1,7 +1,7 @@
 # Interpark Ticketing Macro
 
 <div>
-    <img src="https://img.shields.io/badge/python-3-brightgreen"> <img src="https://img.shields.io/badge/webdriver-selenium-brightgreen"> <img src="https://img.shields.io/badge/BeautifulSoup-bs4-brightgreen"> <img src="https://img.shields.io/badge/PyQt-PyQt5-brightgreen"> <img src="https://img.shields.io/badge/chromedriver-ver.86-brightgreen">
+    <img src="https://img.shields.io/badge/python-3-brightgreen"> <img src="https://img.shields.io/badge/webdriver-selenium-brightgreen"> <img src="https://img.shields.io/badge/BeautifulSoup-bs4-brightgreen"> <img src="https://img.shields.io/badge/PyQt-5-brightgreen"> <img src="https://img.shields.io/badge/chromedriver-ver.86-brightgreen">
 </div>
 
 > 파일 셋팅 및 간단한 사용법
