@@ -1,5 +1,15 @@
 # Interpark Ticketing Macro
 
+> 설명
+
+python으로 구현했고 처음 구글링 초기에 PyQt4로 구현된 코드들이 많았지만 PyQt5가 latest version이라서 PyQt5로 UI를 구현했습니다.  
+Selenium을 사용하여 web 요소에 접근하였고 FireFox gecko webdriver가 안정적이라는 얘기를 봤지만 Chrome이 좀 더 친숙해서 Chromedriver를 사용하였습니다.  
+Interpark Ticketing Page에서 콘서트, 뮤지컬 등 다양한 분야에서 티켓팅 서비스를 제공하지만 매 티켓팅마다 Ticket seat DOM 구성이 다르게 되어 있는 부분이 있는데(미니맵 여부 또는 섹터 여부 등),  
+현업이 더 중요한 관계로, 코드 내부에 분기처리는 해놓았으나 완벽하게 작동하는 수준까지 코드를 마무리하진 않았습니다.  
+pyinstaller를 통해 exe파일로 build 후, 테스팅에 성공했고 실제로 예매도 성공적으로 이루어졌습니다.  
+저처럼 python 또는 selenium 등을 공부하시는 분들에게는 한번은 다뤄볼만한 좋은 예제가 되었으면 합니다.  
+python이 친숙하지 않아서 혹시 코드를 보고 feedback을 주시는 분들께서는 이점 참고해서 전달주시면 감사하고, 시간적 여유가 있을 때 적극 반영할 수 있도록 하겠습니다.
+
 <div>
     <img src="https://img.shields.io/badge/python-3-brightgreen"> <img src="https://img.shields.io/badge/webdriver-selenium-brightgreen"> <img src="https://img.shields.io/badge/BeautifulSoup-bs4-brightgreen"> <img src="https://img.shields.io/badge/PyQt-5-brightgreen"> <img src="https://img.shields.io/badge/chromedriver-ver.86-brightgreen">
 </div>
