@@ -16,6 +16,7 @@
 
 <p align="center">
     <img src="https://github.com/holyfrog666/ticketing/blob/master/tm_manual.PNG">   
+    
     &lt;첫 실행 화면&gt;
 </p>
 
