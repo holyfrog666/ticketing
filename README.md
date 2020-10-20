@@ -3,7 +3,8 @@
 <div>
     <img src="https://img.shields.io/badge/python-3-brightgreen"> <img src="https://img.shields.io/badge/webdriver-selenium-brightgreen"> <img src="https://img.shields.io/badge/BeautifulSoup-bs4-brightgreen"> <img src="https://img.shields.io/badge/PyQt-5-brightgreen"> <img src="https://img.shields.io/badge/chromedriver-ver.86-brightgreen">
 </div>
-
+   
+   
 > 설명
 
 python으로 구현했고 처음 구글링 초기에 PyQt4로 구현된 코드들이 많았지만 PyQt5가 latest version이라서 PyQt5로 UI를 구현했습니다.
