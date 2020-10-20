@@ -1,7 +1,7 @@
 # Interpark Ticketing Macro
 
 <div>
-    <img src="https://img.shields.io/badge/python-3-brightgreen"> <img src="https://img.shields.io/badge/webdriver-selenium-yellow"> <img src="https://img.shields.io/badge/BeautifulSoup-bs4-yellow"> <img src="https://img.shields.io/badge/PyQt-PyQt5-yellow"> <img src="https://img.shields.io/badge/chromedriver-ver.86-yellow">
+    <img src="https://img.shields.io/badge/python-3-brightgreen"> <img src="https://img.shields.io/badge/webdriver-selenium-brightgreen"> <img src="https://img.shields.io/badge/BeautifulSoup-bs4-brightgreen"> <img src="https://img.shields.io/badge/PyQt-PyQt5-brightgreen"> <img src="https://img.shields.io/badge/chromedriver-ver.86-brightgreen">
 </div>
 
 #### 위 코드는 구글의 많은 선행코드를 참조하여 만들었습니다.
