@@ -16,7 +16,7 @@
 
 <p align="center">
     <img src="https://github.com/holyfrog666/ticketing/blob/master/tm_manual.PNG">   
-    <p>&lt;첫 실행 화면&gt;</p>
+    <p align="center">&lt;첫 실행 화면&gt;</p>
 </p>
 
     (4) 실행 화면에서 미리 기입된 양식에 맞게 정보들을 기입 후, (예매정보 입력) 및 (로그인 버튼)을 누르고 잠시 대기.
