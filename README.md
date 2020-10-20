@@ -15,7 +15,7 @@
     (3) 예매할 공연 또는 콘서트(이하 편의상 공연)를 확인 후, 해당 공연의 코드 / 날짜 / 회차 / 좌석 등을 미리 파악.
 
 <div style="text-align:center;">
-    <img src="https://github.com/holyfrog666/ticketing/blob/master/tm_manual.png">
+    <img src="https://github.com/holyfrog666/ticketing/blob/master/tm_manual.PNG">
     첫 실행 화면
 </div>
 
